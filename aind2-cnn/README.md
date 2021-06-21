@@ -1,4 +1,4 @@
-# aind2-cnn
+<!-- # aind2-cnn
 
 ### Instructions
 
@@ -71,3 +71,4 @@ jupyter notebook
 ```
 
 9. (Optional) **If you are running the project on your local machine (and not using AWS)**, before running code, change the kernel to match the dog-project environment by using the drop-down menu (**Kernel > Change kernel > dog-project**). 
+ -->
